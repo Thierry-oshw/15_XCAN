@@ -404,7 +404,7 @@
       "idf": "",
       "netlist": "15_XCAN.net",
       "specctra_dsn": "",
-      "step": "",
+      "step": "15_XCAN.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
