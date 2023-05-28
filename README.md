@@ -2,9 +2,9 @@
 
 Can module to easily add CAN support to anything with SPI
 
-<img src="media/4627469259549797607.jpg" width="30%" height="30%">
+<img src="media/4627469259549797607.jpg" width="50%" height="50%">
 
-<img src="media/9173235623378035028.jpg" width="30%" height="30%">
+<img src="media/9173235623378035028.jpg" width="50%" height="50%">
 
 [Link for controller](https://github.com/Thierry-oshw/17_CAN_Controller)
 
@@ -23,11 +23,11 @@ Can module to easily add CAN support to anything with SPI
 
 ### 15 XCAN Schematic
 
-<img src="media/15_XCAN_SCH.png" width="30%" height="30%">
+<img src="media/15_XCAN_SCH.png" width="50%" height="50%">
 
 ### 17 CAN Controller Schematic
 
-<img src="media/17_CAN_CONTROLLER_SCH.png" width="30%" height="30%">
+<img src="media/17_CAN_CONTROLLER_SCH.png" width="50%" height="50%">
 
 ## Build the PCB
 
